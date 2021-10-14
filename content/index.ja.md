@@ -4,15 +4,18 @@
 title: "Web Content Accessibility Guidelines (WCAG) Overview"
 nav_title: "Web Content – WCAG"
 
-description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
+description: WCAG2.0およびWCAG2.1を含むWeb Content Accessibility Guidelines（WCAG）国際標準を紹介します。 WCAG文書は、障害を持つ人々がWebコンテンツをよりアクセシブルにする方法を説明しています。
 
-lang: en
-last_updated: 2021-04-29
-permalink: /standards-guidelines/wcag/
+lang: ja
+last_updated: 2021-10-14
+permalink: /standards-guidelines/wcag/ja
+
+translators:
+- name: "-"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/index.md'
+  path: 'content/index.ja.md'
 
 footer: >
   <p><strong>Date:</strong> Updated 29 April 2021. First published July 2005.</p>
@@ -28,12 +31,12 @@ ref: /standards-guidelines/wcag/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Introducing the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
+WCAG2.0およびWCAG2.1を含むWeb Content Accessibility Guidelines（WCAG）の紹介
 
 Quick links to resources:
-* [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
-* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
+* [How to Meet WCAG 2 (クイックリファレンス)](https://waic.jp/docs/WCAG20/quickref/)
+* [WCAG 2.1 Standard](https://waic.jp/docs/WCAG21/)
+* [WCAG 2.0 Standard](https://waic.jp/docs/WCAG20/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
